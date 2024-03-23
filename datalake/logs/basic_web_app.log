@@ -16,3 +16,8 @@
 2024-03-23 12:24:02,384:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
 2024-03-23 12:24:02,388:INFO:Prediction: 155849.9
 2024-03-23 12:24:02,389:INFO:127.0.0.1 - - [23/Mar/2024 12:24:02] "POST / HTTP/1.1" 200 -
+2024-03-23 12:38:04,416:INFO: * Detected change in 'C:\\Users\\Juan Salas\\Documents\\GitHub\\taller-presencial-JuanPaSc\\src\\5_basic_web_app\\app.py', reloading
+2024-03-23 12:38:04,958:INFO: * Restarting with stat
+2024-03-23 12:38:06,316:INFO:Starting the application
+2024-03-23 12:38:06,321:WARNING: * Debugger is active!
+2024-03-23 12:38:06,323:INFO: * Debugger PIN: 173-478-230
