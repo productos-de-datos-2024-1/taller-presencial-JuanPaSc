@@ -1,0 +1,28 @@
+2024-04-06 17:00:57,411:INFO:Starting API server
+2024-04-06 17:00:57,626:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.2:5000
+2024-04-06 17:00:57,628:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 17:00:57,632:INFO: * Restarting with stat
+2024-04-06 17:00:59,629:INFO:Starting API server
+2024-04-06 17:00:59,812:WARNING: * Debugger is active!
+2024-04-06 17:01:00,445:INFO: * Debugger PIN: 941-434-964
+2024-04-06 17:02:27,445:INFO:172.18.0.1 - - [06/Apr/2024 17:02:27] "[31m[1mGET / HTTP/1.1[0m" 405 -
+2024-04-06 17:03:26,487:INFO:Finishing API server
+2024-04-06 17:03:26,703:INFO:Finishing API server
+2024-04-06 17:16:47,864:INFO:Starting API server
+2024-04-06 17:16:47,893:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.2:5000
+2024-04-06 17:16:47,893:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 17:16:47,896:INFO: * Restarting with stat
+2024-04-06 17:16:49,038:INFO:Starting API server
+2024-04-06 17:16:49,049:WARNING: * Debugger is active!
+2024-04-06 17:16:49,051:INFO: * Debugger PIN: 110-239-051
+2024-04-06 17:16:52,176:INFO:172.18.0.1 - - [06/Apr/2024 17:16:52] "[31m[1mGET / HTTP/1.1[0m" 405 -
+2024-04-06 17:16:59,937:INFO:172.18.0.1 - - [06/Apr/2024 17:16:59] "[31m[1mGET / HTTP/1.1[0m" 405 -
+2024-04-06 17:17:01,338:INFO:172.18.0.1 - - [06/Apr/2024 17:17:01] "[31m[1mGET / HTTP/1.1[0m" 405 -
+2024-04-06 17:17:22,330:INFO:Finishing API server
+2024-04-06 17:17:22,545:INFO:Finishing API server

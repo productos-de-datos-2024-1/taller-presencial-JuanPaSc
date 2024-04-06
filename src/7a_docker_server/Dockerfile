@@ -21,6 +21,8 @@
 #
 # $ docker run --network=mynetwork --rm -it --name=api-server -p 5001:5000 -v "$PWD"/datalake:/datalake juanpasc/api-server:0.1
 #
+# CMD Windows
+# $ docker run --network=mynetwork --rm -it --name=api-server -p 5001:5000 -v "%cd%/datalake:/datalake" juanpasc/api-server:0.1
 
 # Definición de la imagen base
 FROM python:3.9-alpine

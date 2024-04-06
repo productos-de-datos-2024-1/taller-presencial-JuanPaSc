@@ -11,7 +11,7 @@
 #
 # La imagen es creada con:
 # 
-# $ docker build --tag=juanpasc/api-server:0.1 . 
+# $ docker build --tag=juanpasc/api-client:0.1 . 
 #
 # Las images actuales se pueden listar con:
 #
